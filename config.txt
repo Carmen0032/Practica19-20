@@ -1,0 +1,1 @@
+modo=prueba\nusuario=admin\ntiempo=30
