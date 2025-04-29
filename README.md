@@ -7,3 +7,12 @@ Este repositorio contiene una práctica de Java realizada en pareja para aprende
 
 - Sandra
 
+## Cómo ejecutar el proyecto
+
+Asegúrate de tener Java instalado. Luego, abre una terminal en la carpeta raíz del proyecto y ejecuta lo siguiente:
+
+### Compilar:
+
+```bash
+javac src/Main.java
+
